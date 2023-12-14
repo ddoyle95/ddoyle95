@@ -1,4 +1,4 @@
-##👋 Hi, I’m @ddoyle95
+#👋 Hi, I’m @ddoyle95
 - 👀 I’m interested in in software development, DevOps, and cybersecurity. 
 - 🌱 I’m currently a 2nd year Computer Science student at Ulster University, learning Java, Python, and web development.
 - 💞️ I’m looking to collaborate on open-source projects and participate in hackathons or coding challenges.
